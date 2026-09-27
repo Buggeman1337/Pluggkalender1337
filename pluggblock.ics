@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veckoplan HT26//pluggblock//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pluggblock HT26
+X-WR-TIMEZONE:Europe/Stockholm
+X-WR-CALDESC:Föreslagna pluggblock från Veckoplan HT26. Uppdateras månda
+ gar.
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:w40-man-tdde71@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20260928T160000Z
+DTEND:20260928T170000Z
+SUMMARY:Programmering: Lab 2: sista test och inlämning
+DESCRIPTION:Deadline ons 30 sep 08:00. Tisdagskvällen går till Fourier\, 
+ så det här är sista lugna tillfället. Huvudbygget i lördags är avboc
+ kat.\n\nVeckoplan v40: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w40-man-tdde71-2@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20260928T171500Z
+DTEND:20260928T180000Z
+SUMMARY:Programmering: Läs Fö 6 inför seminariet (arv\, polymorfi\, OO-a
+ nalys)
+DESCRIPTION:Seminarium tis 10:15 (B2) bygger direkt på morgonens Fö 6.\n\
+ nVeckoplan v40: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w40-tis-tata77@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20260929T160000Z
+DTEND:20260929T170000Z
+SUMMARY:Fourier: Ikapp: Le-uppgifterna till Fö 7 (Fouriertransformen)
+DESCRIPTION:Anteckningar till Le till Fö 7 (fre 25 sep) saknas\, och Fö 8
+  bygger på transformen. Gör detta före Fö 8-uppgifterna.\n\nVeckoplan 
+ v40: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w40-tis-tata77-2@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20260929T171500Z
+DTEND:20260929T184500Z
+SUMMARY:Fourier: Räkna Le-uppgifterna till Fö 8
+DESCRIPTION:Fö 8 hålls tis 08:15 och Le till Fö 8 redan ons 10:15. Det h
+ är är enda kvällen emellan.\n\nVeckoplan v40: https://claude.ai/artifac
+ t/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w40-ons-tdde71@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20260930T160000Z
+DTEND:20260930T170000Z
+SUMMARY:Programmering: Lab 3: läs instruktionen och skissa upplägget
+DESCRIPTION:Deadline ons 14 okt 08:00. Före den finns bara fyra labbpass k
+ var (30 sep\, 2\, 7 och 9 okt)\, så fredagens pass 08:15 ska bli byggtid.
+ \n\nVeckoplan v40: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w40-ons-tams24@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20260930T171500Z
+DTEND:20260930T183000Z
+SUMMARY:Statistik: Lektionsuppgifter till Fö 8 (läs in fo7 först om den 
+ saknas)
+DESCRIPTION:Lektion tor 15:15 eller fre 13:15\, beroende på grupp. Går du
+  tisdag 13:15\, gå i stället igenom det som var oklart där och läs in 
+ Fö 9.\n\nVeckoplan v40: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w40-tor-tata77@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20261001T160000Z
+DTEND:20261001T173000Z
+SUMMARY:Fourier: Räkna Le-uppgifterna till Fö 9
+DESCRIPTION:Fö 9 hålls tor 13:15 och Le till Fö 9 redan fre 10:15. Det h
+ är är enda kvällen emellan.\n\nVeckoplan v40: https://claude.ai/artifac
+ t/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w40-lor-tata77@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20261003T080000Z
+DTEND:20261003T100000Z
+SUMMARY:Fourier: Ikapp: Le till Fö 6 och lucklista till återhämtningen
+DESCRIPTION:Återhämtningslektionen tis 6 okt 08:15 är veckans första pa
+ ss. Ta med konkreta frågor från Fö 6–9 och gamla tentauppgifter.\n\nV
+ eckoplan v40: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w40-son-tams24@veckoplan-ht26
+DTSTAMP:20260927T154500Z
+LAST-MODIFIED:20260927T154500Z
+DTSTART:20261004T110000Z
+DTEND:20261004T123000Z
+SUMMARY:Statistik: Lektionsuppgifter till Fö 9
+DESCRIPTION:Mån 5 okt ligger en lektion 13:15\, före Fö 10 15:15. Går d
+ u i den gruppen måste uppgifterna vara gjorda i helgen.\n\nVeckoplan v40:
+  https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
