@@ -136,4 +136,138 @@ CATEGORIES:TAMS24
 URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:w41-man-tata77@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261005T160000Z
+DTEND:20261005T170000Z
+SUMMARY:Fourier: Lucklista till återhämtningen (och Le till Fö 9 om den 
+ inte blev klar)
+DESCRIPTION:Le: återhämtning tis 6 okt 08:15 är veckans första Fourierp
+ ass. Ta med konkreta frågor från Fö 7–9 (Fouriertransformen).\n\nVeck
+ oplan v41: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w41-man-tdde71@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261005T171500Z
+DTEND:20261005T180000Z
+SUMMARY:Programmering: Lab 3: stäm av mot instruktionen och lista vad som 
+ återstår
+DESCRIPTION:Deadline ons 14 okt 08:00. Före den finns bara labbpassen ons 
+ 7 okt och fre 9 okt\, så onsdagens pass behöver en tydlig lista.\n\nVeck
+ oplan v41: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w41-tis-tams24@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261006T160000Z
+DTEND:20261006T173000Z
+SUMMARY:Statistik: Lektionsuppgifter till Fö 10
+DESCRIPTION:Fö 10 hålls mån 15:15 och nästa lektion är ons 08:15 eller
+  fre 13:15\, beroende på grupp. Tisdag kväll fungerar för båda.\n\nVec
+ koplan v41: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w41-ons-tata77@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261007T160000Z
+DTEND:20261007T173000Z
+SUMMARY:Fourier: Räkna Le-uppgifterna till Fö 10
+DESCRIPTION:Fö 10 hålls ons 10:15 och Le till Fö 10 redan tor 13:15. Det
+  här är enda kvällen emellan.\n\nVeckoplan v41: https://claude.ai/artif
+ act/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w41-tor-tdde71@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261008T160000Z
+DTEND:20261008T173000Z
+SUMMARY:Programmering: Lab 3: bygg klart det som återstår efter onsdagens
+  labbpass
+DESCRIPTION:Labbpasset fre 9 okt 08:15 är det sista före deadline ons 14 
+ okt 08:00. Det ska gå till test och frågor\, inte till grundbygge.\n\nVe
+ ckoplan v41: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w41-lor-tata77@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261010T080000Z
+DTEND:20261010T100000Z
+SUMMARY:Fourier: Räkna Le-uppgifterna till Fö 11
+DESCRIPTION:Fö 11 hålls fre 10:15 och Le till Fö 11 tis 13 okt 08:15\, v
+ eckans första Fourierpass. Måndag kväll v42 behövs till lab 3 och stat
+ istik.\n\nVeckoplan v41: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w41-lor-tdde71@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261010T110000Z
+DTEND:20261010T114500Z
+SUMMARY:Programmering: Lab 3: buffert – sista test och inlämning om någ
+ ot återstår
+DESCRIPTION:Deadline ons 14 okt 08:00 och inget labbpass före den i v42. 
+ Är labben redan inne\, stryk blocket.\n\nVeckoplan v41: https://claude.ai
+ /artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w41-son-tata77@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261011T080000Z
+DTEND:20261011T100000Z
+SUMMARY:Fourier: Gammal tenta: uppgifter på distributioner och Fourierseri
+ er (Fö 1–6)
+DESCRIPTION:Tentaperioden börjar fre 23 okt. Återhämtningslektionerna on
+ s 14 okt och fre 16 okt är rätt ställe för det som inte går\, så du 
+ behöver veta vad det är före dem.\n\nVeckoplan v41: https://claude.ai/a
+ rtifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w41-son-tams24@veckoplan-ht26
+DTSTAMP:20261005T021500Z
+LAST-MODIFIED:20261005T021500Z
+DTSTART:20261011T110000Z
+DTEND:20261011T120000Z
+SUMMARY:Statistik: Gamla tentauppgifter: konfidensintervall och hypotesprö
+ vning (Fö 3–6)
+DESCRIPTION:Tentaperioden börjar fre 23 okt. Mån 12 okt ligger Fö 11 13:
+ 15 med lektion 15:15 direkt efter\, så det går inte att förbereda den l
+ ektionen i förväg.\n\nVeckoplan v41: https://claude.ai/artifact/7CeWQJMC
+ NfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
