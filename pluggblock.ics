@@ -270,4 +270,150 @@ CATEGORIES:TAMS24
 URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:w42-man-tdde71@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261012T160000Z
+DTEND:20261012T173000Z
+SUMMARY:Programmering: Lab 3: stäm av mot instruktionen och bygg det som 
+ återstår
+DESCRIPTION:Deadline ons 14 okt 08:00 och inget labbpass före den. Ta labb
+ en först i kväll så att du vet om tisdagens block behövs.\n\nVeckoplan
+  v42: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-man-tata77@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261012T174500Z
+DTEND:20261012T190000Z
+SUMMARY:Fourier: Räkna Le-uppgifterna till Fö 11 (Laplacetransformen)
+DESCRIPTION:Le till Fö 11 hålls tis 08:15. Det här är sista kvällen f
+ öre\, och Lektion 11 syns inte i GoodNotes.\n\nVeckoplan v42: https://cla
+ ude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-tis-tams24@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261013T160000Z
+DTEND:20261013T173000Z
+SUMMARY:Statistik: Lektionsuppgifter till Fö 11
+DESCRIPTION:Lektionen till Fö 11 går mån 15:15 eller ons 08:15 beroende 
+ på grupp och är den sista i schemat. Går du på onsdag är det här fö
+ rberedelsen\, annars resten av uppgifterna.\n\nVeckoplan v42: https://clau
+ de.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-tis-tdde71@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261013T174500Z
+DTEND:20261013T190000Z
+SUMMARY:Programmering: Lab 3: test och inlämning
+DESCRIPTION:Deadline ons 14 okt 08:00. Är labben redan inne: räkna tentau
+ ppgifter i TAMS24 i stället.\n\nVeckoplan v42: https://claude.ai/artifact
+ /7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-ons-tata77@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261014T160000Z
+DTEND:20261014T171500Z
+SUMMARY:Fourier: Läs in Fö 12-avsnittet och titta igenom Le-uppgifterna
+DESCRIPTION:Fö 12 tor 13:15 följs direkt av Le till Fö 12 15:15\, så le
+ ktionen går inte att förbereda efter föreläsningen.\n\nVeckoplan v42: 
+ https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-ons-tams24@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261014T173000Z
+DTEND:20261014T190000Z
+SUMMARY:Statistik: Gamla tentauppgifter: konfidensintervall och hypotesprö
+ vning
+DESCRIPTION:Lektionerna är slut efter den här veckan\, så från i kväll
+  är det tentaträning. Tentaperioden börjar fre 23 okt.\n\nVeckoplan v42
+ : https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-tor-tata77@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261015T160000Z
+DTEND:20261015T170000Z
+SUMMARY:Fourier: Räkna klart Le-uppgifterna till Fö 12
+DESCRIPTION:Le till Fö 12 hölls 15:15 direkt efter föreläsningen. Ta re
+ sten medan avsnittet är färskt.\n\nVeckoplan v42: https://claude.ai/arti
+ fact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-tor-tata77-2@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261015T171500Z
+DTEND:20261015T184500Z
+SUMMARY:Fourier: Gamla tentauppgifter: distributioner och Fourierserier (F
+ ö 1–6)
+DESCRIPTION:Le: återhämtning fre 10:15 är rätt ställe för det som int
+ e går\, så du behöver veta vad det är kvällen före.\n\nVeckoplan v42
+ : https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-lor-tams24@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261017T080000Z
+DTEND:20261017T110000Z
+SUMMARY:Statistik: En hel gammal tenta – räkna och rätta mot lösningar
+ na
+DESCRIPTION:Undervisningen är slut bortsett från labben mån 19 okt. En h
+ el tenta visar vilka avsnitt som behöver mest tid i v43.\n\nVeckoplan v42
+ : https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w42-son-tata77@veckoplan-ht26
+DTSTAMP:20261011T165000Z
+LAST-MODIFIED:20261011T165000Z
+DTSTART:20261018T080000Z
+DTEND:20261018T110000Z
+SUMMARY:Fourier: Gamla tentauppgifter: Fouriertransform och Laplacetransfor
+ m (Fö 7–11)
+DESCRIPTION:Fö 13 tis 20 okt är sista föreläsningen\, sedan är v43 tom
+  fram till tentaperioden. Då ska du veta vilka transformuppgifter som sit
+ ter.\n\nVeckoplan v42: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
