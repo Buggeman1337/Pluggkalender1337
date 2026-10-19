@@ -416,4 +416,187 @@ CATEGORIES:TATA77
 URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:w43-man-tata77@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261019T160000Z
+DTEND:20261019T173000Z
+SUMMARY:Fourier: Räkna klart Le till Fö 12 (Z-transformen) och skriv ner 
+ frågor till Fö 13
+DESCRIPTION:Fö 13 tis 08:15 är sista föreläsningen och sista chansen at
+ t fråga. Lektion 12 kom in i GoodNotes 16 okt\, så det som återstår b
+ ör vara lite.\n\nVeckoplan v43: https://claude.ai/artifact/7CeWQJMCNfxHCs
+ atsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-man-tams24@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261019T174500Z
+DTEND:20261019T190000Z
+SUMMARY:Statistik: Gamla tentauppgifter: regression och prediktionsinterval
+ l (fo10–11)
+DESCRIPTION:Labbpasset 13:15–17:00 är sista schemalagda passet. fo10–1
+ 1 är nyast och ingick inte i söndagens repetition av fo1–6.\n\nVeckopl
+ an v43: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-tis-tata77@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261020T160000Z
+DTEND:20261020T173000Z
+SUMMARY:Fourier: Gamla tentauppgifter: Laplace- och Z-transform (Fö 10–1
+ 2)
+DESCRIPTION:Söndagens repetition täckte Fö 1–6. Transformdelen från F
+ ö 10–12 är färskast men minst räknad\, och Fö 13 i morse är sista 
+ inputen.\n\nVeckoplan v43: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGB
+ Yg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-tis-tams24@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261020T174500Z
+DTEND:20261020T190000Z
+SUMMARY:Statistik: Gamla tentauppgifter: test av fördelning och stokastisk
+ a vektorer (fo8–9)
+DESCRIPTION:fo8–9 är de avsnitt som varken repeterades i söndags eller 
+ ingår i måndagens block. Efter det är alla delar berörda före onsdage
+ ns hela tenta.\n\nVeckoplan v43: https://claude.ai/artifact/7CeWQJMCNfxHCs
+ atsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-ons-tata77@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261021T080000Z
+DTEND:20261021T110000Z
+SUMMARY:Fourier: Hel gammal tenta på tid\, utan anteckningar
+DESCRIPTION:Inga pass från och med i dag. Tentaperioden börjar fre 23 okt
+ \, så det här är sista chansen till en full genomkörning med tid att 
+ åtgärda det som brister.\n\nVeckoplan v43: https://claude.ai/artifact/7C
+ eWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-ons-tata77-2@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261021T120000Z
+DTEND:20261021T133000Z
+SUMMARY:Fourier: Rätta förmiddagens tenta mot lösningarna och lista luck
+ orna
+DESCRIPTION:Rättningen styr torsdagens och lördagens block. Skriv ner vil
+ ka uppgiftstyper som inte satt\, inte bara poängen.\n\nVeckoplan v43: htt
+ ps://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-ons-tams24@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261021T160000Z
+DTEND:20261021T190000Z
+SUMMARY:Statistik: Hel gammal tenta på tid\, med formelsamling
+DESCRIPTION:Lektionerna är slut och labben är gjord. Ett helt skriv visar
+  vilka avsnitt som behöver torsdagens tid.\n\nVeckoplan v43: https://clau
+ de.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-tor-tams24@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261022T080000Z
+DTEND:20261022T100000Z
+SUMMARY:Statistik: Rätta onsdagens tenta och räkna om de uppgifter som in
+ te satt
+DESCRIPTION:Dagen efter är rätt läge: lösningarna är färska och det f
+ inns fortfarande en helg kvar att räkna in luckorna på.\n\nVeckoplan v43
+ : https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-tor-tata77@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261022T160000Z
+DTEND:20261022T183000Z
+SUMMARY:Fourier: Luckorna från onsdagens rättning – räkna liknande upp
+ gifter ur fler gamla tentor
+DESCRIPTION:Onsdagens rättning sa vad som brister. Ta det nu\, så att lö
+ rdagens hela tenta mäter om det hjälpte.\n\nVeckoplan v43: https://claud
+ e.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-fre-tams24@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261023T080000Z
+DTEND:20261023T100000Z
+SUMMARY:Statistik: Teoridelen: definitioner\, satser och härledningar som 
+ brukar frågas
+DESCRIPTION:Tentaperioden börjar i dag. Ligger någon av dina tentor freda
+ g\, hoppa blocket – då är det tentan som gäller. Annars är fredag f
+ örmiddag bra för teori\, som sällan får plats mellan räkneuppgifterna
+ .\n\nVeckoplan v43: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-lor-tata77@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261024T080000Z
+DTEND:20261024T110000Z
+SUMMARY:Fourier: Andra hela tentan på tid – jämför med onsdagens
+DESCRIPTION:Tentaveckan 26–30 okt börjar på måndag. En andra genomkör
+ ning visar om torsdagens luckarbete gav effekt och vad som ska upp sista d
+ agarna.\n\nVeckoplan v43: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBY
+ g
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w43-son-tams24@veckoplan-ht26
+DTSTAMP:20261019T020500Z
+LAST-MODIFIED:20261019T020500Z
+DTSTART:20261025T090000Z
+DTEND:20261025T120000Z
+SUMMARY:Statistik: Andra hela tentan på tid – jämför med onsdagens
+DESCRIPTION:Samma logik som för Fourier: sista hela genomkörningen före 
+ tentaveckan. Kommer TAMS24-tentan först i veckan\, byt plats på lördag 
+ och söndag.\n\nVeckoplan v43: https://claude.ai/artifact/7CeWQJMCNfxHCsat
+ sAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
