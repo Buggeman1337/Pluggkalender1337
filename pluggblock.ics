@@ -599,4 +599,191 @@ CATEGORIES:TAMS24
 URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:w44-man-tata77@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261026T080000Z
+DTEND:20261026T110000Z
+SUMMARY:Fourier: Rätta förra veckans fem gamla tentor mot lösningarna oc
+ h lista uppgiftstyperna som inte satt
+DESCRIPTION:Tentan är i morgon tis 27 okt. Du har räknat 2025-08-27\, 202
+ 5-10-28\, 2026-01-07\, 2026-08-26 och 2025-01-08 – nu ska de ge en lista
+  över vad som brister\, inte bara poäng.\n\nVeckoplan v44: https://claud
+ e.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-man-tata77-2@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261026T120000Z
+DTEND:20261026T143000Z
+SUMMARY:Fourier: Räkna om luckorna från förmiddagen – liknande uppgift
+ er ur de andra tentorna
+DESCRIPTION:Sista räknepasset före tentan. Ta uppgiftstyperna från förm
+ iddagens lista\, inte hela tentor igen.\n\nVeckoplan v44: https://claude.a
+ i/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-man-tata77-3@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261026T150000Z
+DTEND:20261026T163000Z
+SUMMARY:Fourier: Formelsamlingen rad för rad: kan varje formel användas u
+ tan egna anteckningar? Kolla tid och sal i Ladok
+DESCRIPTION:Formelsamlingen är enda tillåtna hjälpmedlet och får inte h
+ a anteckningar eller markeringar. Kurssidan anger datumet 27 okt men inte 
+ tid eller sal.\n\nVeckoplan v44: https://claude.ai/artifact/7CeWQJMCNfxHCs
+ atsAGBYg
+CATEGORIES:TATA77
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-ons-tams24@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261028T080000Z
+DTEND:20261028T110000Z
+SUMMARY:Statistik: Rätta Övningstenta 1\, 2 och Träningstenta B mot lös
+ ningarna och lista luckorna
+DESCRIPTION:De tre övningstentorna räknades 19–25 okt enligt GoodNotes.
+  TAMS24-tentan antas ligga tor eller fre – ligger den i dag\, är det te
+ ntan som gäller\, och onsdagens block flyttas till tisdag kväll.\n\nVeck
+ oplan v44: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-ons-tams24-2@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261028T120000Z
+DTEND:20261028T143000Z
+SUMMARY:Statistik: Räkna om luckorna\, sedan tentauppgifter på fo8–9 (t
+ est av fördelning\, stokastiska vektorer)
+DESCRIPTION:Förra veckans repetition (Lektion till Fö 4\, 5\, 11 den 22 o
+ kt) rörde konfidens- och prediktionsintervall. fo8–9 är det avsnitt so
+ m inte berörts sedan lektionerna.\n\nVeckoplan v44: https://claude.ai/art
+ ifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-ons-tams24-3@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:Statistik: Teoridelen: definitioner\, satser och härledningar som 
+ brukar frågas\, med formelsamlingen bredvid
+DESCRIPTION:Teorifrågorna får sällan plats mellan räkneuppgifterna. Kv
+ ällen är lugnare än förmiddagen och passar för genomläsning snarare 
+ än räkning.\n\nVeckoplan v44: https://claude.ai/artifact/7CeWQJMCNfxHCsa
+ tsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-tor-tams24@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261029T080000Z
+DTEND:20261029T110000Z
+SUMMARY:Statistik: Ny hel gammal tenta på tid\, utan anteckningar\, bara f
+ ormelsamling
+DESCRIPTION:Sista hela genomkörningen före tentan om den ligger fredag. L
+ igger tentan i dag: stryk blocket\, det här är tentan.\n\nVeckoplan v44:
+  https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-tor-tams24-2@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261029T120000Z
+DTEND:20261029T140000Z
+SUMMARY:Statistik: Rätta förmiddagens tenta och räkna om det som inte sa
+ tt
+DESCRIPTION:Rättningen samma dag ger listan över vad fredagsförmiddagen 
+ ska gå till.\n\nVeckoplan v44: https://claude.ai/artifact/7CeWQJMCNfxHCsa
+ tsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-fre-tams24@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261030T080000Z
+DTEND:20261030T100000Z
+SUMMARY:Statistik: Sista luckorna från torsdagens rättning och en snabb r
+ unda genom formelsamlingen
+DESCRIPTION:Sista dagen i tentaperioden. Är TAMS24-tentan redan skriven\, 
+ utgår blocket – då är veckan klar.\n\nVeckoplan v44: https://claude.a
+ i/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TAMS24
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-lor-tdde71@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:Programmering: Projekt: bestäm grupp med labbpartnern\, registrera
+  i Webreg\, läs projektkraven i kursrummet
+DESCRIPTION:Deadline projektgruppsregistrering tis 3 nov 08:00 och Fö 7 (p
+ rojektintroduktion) mån 2 nov 08:15. Registreringen ska vara klar innan f
+ öreläsningen\, inte timmen före deadline.\n\nVeckoplan v44: https://cla
+ ude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-son-tdde71@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261101T100000Z
+DTEND:20261101T120000Z
+SUMMARY:Programmering: Första utkast till kravspecifikationen: vad spelet 
+ ska göra\, krav som går att testa\, inget om hur
+DESCRIPTION:Deadline kravspecifikation fre 6 nov 08:00. Med ett utkast klar
+ t kan Fö 7 och labbpasset ons 4 nov användas till att justera med gruppe
+ n i stället för att börja från noll.\n\nVeckoplan v44: https://claude.
+ ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w44-son-tsdt18@veckoplan-ht26
+DTSTAMP:20261026T021000Z
+LAST-MODIFIED:20261026T021000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T140000Z
+SUMMARY:Signaler: Kolla kursrummen för TSDT18 och TFYB14: kurslitteratur\,
+  lektionsplan\, labbanmälan
+DESCRIPTION:Båda kurserna startar mån–tis 2–3 nov. En timme nu gör a
+ tt första veckan går till innehållet och inte till att leta material.\n
+ \nVeckoplan v44: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TSDT18
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
