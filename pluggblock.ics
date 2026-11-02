@@ -788,8 +788,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-man-tdde71@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
 DTSTART:20261102T170000Z
 DTEND:20261102T180000Z
 SUMMARY:Programmering: Kolla att projektgruppen är registrerad i Webreg oc
@@ -803,12 +803,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-man-tfyb14@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
 DTSTART:20261102T180000Z
-DTEND:20261102T190000Z
-SUMMARY:Termo: Renskriv anteckningarna från första föreläsningen och ta
-  reda på i kursrummet vilka uppgifter som hör till lektionen på fredag
+DTEND:20261102T183000Z
+SUMMARY:Termo: Ta reda på i kursrummet vilka uppgifter som hör till lekti
+ onen på fredag och skriv upp dem
 DESCRIPTION:Fö i dag 13:15. Lektionen fre 6 nov 13:15 är kursens första 
  och schemat anger inga uppgiftsnummer.\n\nVeckoplan v45: https://claude.ai
  /artifact/7CeWQJMCNfxHCsatsAGBYg
@@ -817,13 +817,28 @@ URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:w45-man-tata45@veckoplan-ht26
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
+DTSTART:20261102T183000Z
+DTEND:20261102T193000Z
+SUMMARY:Komplex: Le 1 första halvan: 1.4\, 1.7\, 1.9ab\, 1.10a–e\, 1.11a
+ b – med dina sommaranteckningar till Fö 1 som stöd
+DESCRIPTION:Le 1 ons 4 nov 10:15 ligger dagen efter Fö 1\, så räknandet 
+ börjar redan i kväll.\n\nVeckoplan v45: https://claude.ai/artifact/7CeWQ
+ JMCNfxHCsatsAGBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:w45-tis-tsdt18@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
 DTSTART:20261103T170000Z
-DTEND:20261103T180000Z
-SUMMARY:Signaler: Gå igenom Fö 1 och börja på uppgifterna till Lektion 
- 1
+DTEND:20261103T174500Z
+SUMMARY:Signaler: Gå igenom Fö 1 och läs igenom uppgifterna till Lektion
+  1
 DESCRIPTION:Fö 1 i dag 13:15. Lektion 1 fre 6 nov 15:15 ligger dagen efter
   Fö 2\, så räknandet måste börja före torsdag.\n\nVeckoplan v45: htt
  ps://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
@@ -833,10 +848,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-tis-tdde71@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
-DTSTART:20261103T180000Z
-DTEND:20261103T193000Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
+DTSTART:20261103T174500Z
+DTEND:20261103T191500Z
 SUMMARY:Programmering: Kravspecifikation: skriv gruppens krav i testbar for
  m inför gruppträffen i morgon
 DESCRIPTION:Deadline kravspecifikation fre 6 nov 08:00. Labbpasset ons 4 no
@@ -847,9 +862,22 @@ URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:w45-tis-tata45@veckoplan-ht26
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
+DTSTART:20261103T191500Z
+DTEND:20261103T200000Z
+SUMMARY:Komplex: Le 1 resten: 1.14\, 1.16\, 1.17 utifrån dagens Fö 1
+DESCRIPTION:Fö 1 i morse 08:15\, Le 1 i morgon 10:15.\n\nVeckoplan v45: ht
+ tps://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:w45-ons-tdde71@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
 DTSTART:20261104T170000Z
 DTEND:20261104T183000Z
 SUMMARY:Programmering: Färdigställ kravspecifikationen efter gruppträffe
@@ -863,8 +891,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-ons-tfyb14@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
 DTSTART:20261104T183000Z
 DTEND:20261104T193000Z
 SUMMARY:Termo: Räkna uppgifterna till fredagens lektion utifrån Fö 1–2
@@ -877,8 +905,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-tor-tsdt18@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
 DTSTART:20261105T170000Z
 DTEND:20261105T183000Z
 SUMMARY:Signaler: Räkna klart uppgifterna till Lektion 1 utifrån Fö 2
@@ -890,9 +918,23 @@ URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:w45-tor-tata45@veckoplan-ht26
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
+DTSTART:20261105T183000Z
+DTEND:20261105T200000Z
+SUMMARY:Komplex: Le 2: 1.20\, 1.21\, 1.23\, 1.24\, 1.28\, 1.29\, 1.30\, 1.3
+ 1abc\, 1.36 – Cauchy–Riemann och harmoniska funktioner
+DESCRIPTION:Fö 2 i dag 13:15\, Le 2 i morgon 10:15 – sista kvällen emel
+ lan.\n\nVeckoplan v45: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:w45-lor-tdde71@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
 DTSTART:20261107T090000Z
 DTEND:20261107T110000Z
 SUMMARY:Programmering: Objektorienterad analys av projektet: klasser\, ansv
@@ -906,9 +948,24 @@ URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:w45-lor-tata45@veckoplan-ht26
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T123000Z
+SUMMARY:Komplex: UPGtest: lös\, skanna till en pdf med LiU-id på varje si
+ da och mejla till lars.alexandersson@liu.se från LiU-mejlen
+DESCRIPTION:Sista inlämning mån 9 nov 22:00. Testar tekniken och läsbarh
+ eten före UPG1\, som räknas.\n\nVeckoplan v45: https://claude.ai/artifac
+ t/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:w45-son-tsdt18@veckoplan-ht26
-DTSTAMP:20261102T020500Z
-LAST-MODIFIED:20261102T020500Z
+DTSTAMP:20261102T103000Z
+LAST-MODIFIED:20261102T103000Z
 DTSTART:20261108T090000Z
 DTEND:20261108T103000Z
 SUMMARY:Signaler: Uppgifterna till Lektion 2 – de som bygger på Fö 1–
