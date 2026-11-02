@@ -786,4 +786,138 @@ CATEGORIES:TSDT18
 URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:w45-man-tdde71@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261102T170000Z
+DTEND:20261102T180000Z
+SUMMARY:Programmering: Kolla att projektgruppen är registrerad i Webreg oc
+ h stäm av kravspec-utkastet mot det som sades på Fö 7
+DESCRIPTION:Deadline projektgruppsregistrering tis 3 nov 08:00. Fö 7 (proj
+ ektintroduktion) hölls i morse 08:15 – det är där projektkraven preci
+ seras.\n\nVeckoplan v45: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w45-man-tfyb14@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261102T180000Z
+DTEND:20261102T190000Z
+SUMMARY:Termo: Renskriv anteckningarna från första föreläsningen och ta
+  reda på i kursrummet vilka uppgifter som hör till lektionen på fredag
+DESCRIPTION:Fö i dag 13:15. Lektionen fre 6 nov 13:15 är kursens första 
+ och schemat anger inga uppgiftsnummer.\n\nVeckoplan v45: https://claude.ai
+ /artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TFYB14
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w45-tis-tsdt18@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261103T170000Z
+DTEND:20261103T180000Z
+SUMMARY:Signaler: Gå igenom Fö 1 och börja på uppgifterna till Lektion 
+ 1
+DESCRIPTION:Fö 1 i dag 13:15. Lektion 1 fre 6 nov 15:15 ligger dagen efter
+  Fö 2\, så räknandet måste börja före torsdag.\n\nVeckoplan v45: htt
+ ps://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TSDT18
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w45-tis-tdde71@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261103T180000Z
+DTEND:20261103T193000Z
+SUMMARY:Programmering: Kravspecifikation: skriv gruppens krav i testbar for
+ m inför gruppträffen i morgon
+DESCRIPTION:Deadline kravspecifikation fre 6 nov 08:00. Labbpasset ons 4 no
+ v 13:15 ska användas till att justera med gruppen\, inte till att börja.
+ \n\nVeckoplan v45: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w45-ons-tdde71@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261104T170000Z
+DTEND:20261104T183000Z
+SUMMARY:Programmering: Färdigställ kravspecifikationen efter gruppträffe
+ n och lämna in i kväll – inte fredag morgon
+DESCRIPTION:Deadline fre 6 nov 08:00. PROJ-passet 15:15–17:00 ger tid på
+  plats\; kvällen är till för sista versionen.\n\nVeckoplan v45: https:/
+ /claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w45-ons-tfyb14@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261104T183000Z
+DTEND:20261104T193000Z
+SUMMARY:Termo: Räkna uppgifterna till fredagens lektion utifrån Fö 1–2
+DESCRIPTION:Fö 2 i morse 08:15 är sista föreläsningen före lektionen f
+ re 6 nov 13:15.\n\nVeckoplan v45: https://claude.ai/artifact/7CeWQJMCNfxHC
+ satsAGBYg
+CATEGORIES:TFYB14
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w45-tor-tsdt18@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261105T170000Z
+DTEND:20261105T183000Z
+SUMMARY:Signaler: Räkna klart uppgifterna till Lektion 1 utifrån Fö 2
+DESCRIPTION:Fö 2 i morse 08:15\, Lektion 1 i morgon 15:15 – sista kväll
+ en emellan.\n\nVeckoplan v45: https://claude.ai/artifact/7CeWQJMCNfxHCsats
+ AGBYg
+CATEGORIES:TSDT18
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w45-lor-tdde71@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261107T090000Z
+DTEND:20261107T110000Z
+SUMMARY:Programmering: Objektorienterad analys av projektet: klasser\, ansv
+ ar och samband – första utkast
+DESCRIPTION:Deadline OOA ons 11 nov 08:00 och seminarium tis 10 nov 10:15 (
+ grupp B2). Med ett utkast klart kan seminariet användas till assistentens
+  frågor i stället för att börja där.\n\nVeckoplan v45: https://claude
+ .ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w45-son-tsdt18@veckoplan-ht26
+DTSTAMP:20261102T020500Z
+LAST-MODIFIED:20261102T020500Z
+DTSTART:20261108T090000Z
+DTEND:20261108T103000Z
+SUMMARY:Signaler: Uppgifterna till Lektion 2 – de som bygger på Fö 1–
+ 2
+DESCRIPTION:Lektion 2 tis 10 nov 13:15 ligger dagen efter Fö 3\; måndagsk
+ vällen räcker inte ensam.\n\nVeckoplan v45: https://claude.ai/artifact/7
+ CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TSDT18
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
