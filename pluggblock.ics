@@ -977,4 +977,200 @@ CATEGORIES:TSDT18
 URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:w46-man-tata45@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261109T170000Z
+DTEND:20261109T173000Z
+SUMMARY:Komplex: UPGtest: om den inte redan är skickad – skanna med LiU-
+ id på varje sida och mejla från LiU-adressen till lars.alexandersson@liu
+ .se
+DESCRIPTION:Sista inlämning i kväll 22:00. Jag ser inget spår av den i D
+ rive\, så blocket är en säkerhetsmarginal\; hoppa över om den är inne
+ .\n\nVeckoplan v46: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-man-tfyb14@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261109T173000Z
+DTEND:20261109T183000Z
+SUMMARY:Termo: Räkna uppgifterna till onsdagens lektion utifrån dagens tv
+ å föreläsningar
+DESCRIPTION:Lektion ons 11 nov 08:15 – två föreläsningar i dag (13:15 
+ och 15:15) och ingen kväll emellan utom den här.\n\nVeckoplan v46: https
+ ://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TFYB14
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-man-tdde71@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261109T183000Z
+DTEND:20261109T193000Z
+SUMMARY:Programmering: Objektorienterad analys: gör klart utkastet (klasse
+ r\, ansvar\, samband) och skriv upp frågorna till assistenten
+DESCRIPTION:Seminarium tis 10 nov 10:15 (grupp B2) och deadline ons 11 nov 
+ 08:00. Med utkastet klart blir seminariet en granskning i stället för en
+  start.\n\nVeckoplan v46: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBY
+ g
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-man-tsdt18@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261109T193000Z
+DTEND:20261109T200000Z
+SUMMARY:Signaler: Räkna klart det som återstår till Lektion 2 utifrån F
+ ö 3
+DESCRIPTION:Fö 3 i förmiddags 10:15 var sista föreläsningen före Lekti
+ on 2 tis 10 nov 13:15. Söndagens block tog första delen.\n\nVeckoplan v4
+ 6: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TSDT18
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-tis-tdde71@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261110T170000Z
+DTEND:20261110T181500Z
+SUMMARY:Programmering: Färdigställ den objektorienterade analysen efter s
+ eminariet och lämna in i kväll
+DESCRIPTION:Deadline ons 11 nov 08:00. Seminariet 10:15 i dag gav assistent
+ ens synpunkter – kvällen är till för sista versionen\, inte morgonen.
+ \n\nVeckoplan v46: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TDDE71
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-tis-tata45@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261110T181500Z
+DTEND:20261110T193000Z
+SUMMARY:Komplex: UPG1 uppgift 1–2 (kap 1–2)\, publicerade fre 6 nov
+DESCRIPTION:Halva omgången har varit ute sedan fredag\; uppgift 3–4 komm
+ er fre 13 nov och allt ska in tis 17 nov 22:00. Fö 3 i morse täcker kap 
+ 2.1–2.2.\n\nVeckoplan v46: https://claude.ai/artifact/7CeWQJMCNfxHCsatsA
+ GBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-ons-tata45@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261111T170000Z
+DTEND:20261111T183000Z
+SUMMARY:Komplex: Le 3: 2.2\, 2.11\, 2.4\, 2.5\, 2.12\, 2.1\, 2.6\, 2.3\, 2.
+ 7defg\, 2.13\, 2.14a\, 2.8ab – elementära funktioner (2.1–2.2)
+DESCRIPTION:Le 3 tor 12 nov 13:15. Fö 3 (tis) och Fö 4 (i dag 10:15) är 
+ båda hållna\, så det här är enda kvällen emellan.\n\nVeckoplan v46: 
+ https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-ons-tsdt18@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261111T183000Z
+DTEND:20261111T193000Z
+SUMMARY:Signaler: Börja uppgifterna till Lektion 3 – de som bygger på F
+ ö 1–3
+DESCRIPTION:Lektion 3 fre 13 nov 15:15 ligger dagen efter Fö 4\; torsdagsk
+ vällen delas med TATA45 Le 4 och räcker inte ensam.\n\nVeckoplan v46: ht
+ tps://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TSDT18
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-tor-tata45@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261112T170000Z
+DTEND:20261112T181500Z
+SUMMARY:Komplex: Le 4: 2.18\, 2.19bd\, 2.20\, 2.21\, 2.22\, 2.23\, 2.24c\, 
+ 2.25ac – elementära funktioner (2.3–2.4)
+DESCRIPTION:Le 4 fre 13 nov 10:15\, dagen efter Le 3. Fö 4 (ons) täcker a
+ vsnitten.\n\nVeckoplan v46: https://claude.ai/artifact/7CeWQJMCNfxHCsatsAG
+ BYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-tor-tsdt18@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261112T181500Z
+DTEND:20261112T193000Z
+SUMMARY:Signaler: Räkna klart till Lektion 3 utifrån Fö 4
+DESCRIPTION:Fö 4 i morse 08:15\, Lektion 3 i morgon 15:15 – sista kväll
+ en emellan.\n\nVeckoplan v46: https://claude.ai/artifact/7CeWQJMCNfxHCsats
+ AGBYg
+CATEGORIES:TSDT18
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-lor-tata45@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261114T090000Z
+DTEND:20261114T110000Z
+SUMMARY:Komplex: UPG1 uppgift 3–4 (publicerade fre 13 nov 12:00)
+DESCRIPTION:Hela omgången är ute sedan fredag\; sista inlämning tis 17 n
+ ov 22:00 och den ska vara klar minst en dag före.\n\nVeckoplan v46: https
+ ://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-son-tfyb14@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261115T090000Z
+DTEND:20261115T100000Z
+SUMMARY:Termo: Räkna uppgifterna till måndagens lektion utifrån fredagen
+ s föreläsning
+DESCRIPTION:Lektion mån 16 nov 15:15 ligger direkt efter föreläsningen 1
+ 3:15 samma dag\, så det finns ingen kväll emellan.\n\nVeckoplan v46: htt
+ ps://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+CATEGORIES:TFYB14
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:w46-son-tata45@veckoplan-ht26
+DTSTAMP:20261109T020500Z
+LAST-MODIFIED:20261109T020500Z
+DTSTART:20261115T101500Z
+DTEND:20261115T114500Z
+SUMMARY:Komplex: Renskriv\, skanna och mejla UPG1 (LiU-id på varje sida) 
+ – börja sedan Le 5: 3.1\, 3.2\, 3.3 med sommaranteckningarna till Fö 5
+DESCRIPTION:UPG1 in senast tis 17 nov 22:00 – klart i dag ger marginal. L
+ e 5 tis 17 nov 10:15 ligger direkt efter Fö 5 08:15\, så räknandet mås
+ te börja före tisdagen.\n\nVeckoplan v46: https://claude.ai/artifact/7Ce
+ WQJMCNfxHCsatsAGBYg
+CATEGORIES:TATA45
+URL:https://claude.ai/artifact/7CeWQJMCNfxHCsatsAGBYg
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
